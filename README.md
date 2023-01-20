@@ -1,5 +1,6 @@
 # FCBE-miFV
-Code implementation of paper Robust bag classification approach for multi-instance learning via subspace fuzzy clustering
+Code implementation of paper Robust bag classification approach for multi-instance learning via subspace fuzzy clustering. To run the code
+execute Tiger.m/Elepahnt.m/Fox.m for respective dataset
 
 # Packages Requiered 
 VL-Feat
