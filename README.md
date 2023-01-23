@@ -3,8 +3,8 @@ Code implementation of the paper "Robust bag classification approach for multi-i
 execute Tiger.m/Elepahnt.m/Fox.m for respective dataset
 <br />
 # Packages Requiered 
-VL-Feat
-Lib-SV
+VL-Feat<br />
+Lib-SV<br />
 SRKDA
 
 #Cite Following Paper
